@@ -1,10 +1,10 @@
 # wedd-invite-lite
 
-这是一套适用于移动端的婚礼请柬 H5 模板，也是我结婚时自用的请柬。
+这是一套适用于移动端的婚礼请柬 H5 模板。
 
 UI 界面风格参考了[这封请柬](https://marttinfisher.com/themes/bodas/)，在此向原作者致谢！
 
-如果你对完整的开发过程感兴趣，可以读读我在掘金社区发布的文章[《全程直击：婚礼请柬 DIY 实录》](https://juejin.cn/post/6844903967147687949)。
+如果你对完整的开发过程感兴趣，可以读读掘金社区发布的文章[《全程直击：婚礼请柬 DIY 实录》](https://juejin.cn/post/6844903967147687949)。
 
 
 ## 功能简介
@@ -40,12 +40,3 @@ $ npm run serve
 ```
 
 如果你更改了生成器代码，则需要运行 `npm run build`，再把 `/render/dist` 目录下的所有内容覆盖到 `server/html/render` 中。
-
-## 联系我
-
-如果你对代码有建议、疑问、勘误，欢迎通过下列渠道联系我。
-
-- 掘金社区：[Badd](https://juejin.cn/user/1134351730353207)
-- 微信二维码：
-
-<a href="./wxqr.png"><img style="width: 320px;" src="./wxqr.png" /></a>
