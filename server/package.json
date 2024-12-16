@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prd": "cross-env NODE_ENV=production pm2 start pm2.conf.json",
+    "prd": "pm2 start pm2.conf.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "MonsterDOG <minezhou@outlook.com>",
